@@ -1,4 +1,4 @@
-package com.example.jatpackdemo;
+package com.example.jetpackdemo;
 
 import android.content.Context;
 
